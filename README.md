@@ -32,10 +32,6 @@ This project contains tools and datasets for scraping, processing, and analyzing
   - File size information
 - **Sources**: Links from arXiv papers, GitHub repositories, Google Drive, and Kaggle datasets
 
-#### `2212.06468`
-- **Purpose**: Downloaded PDF from arXiv paper "Lisan: Yemeni, Iraqi, Libyan, and Sudanese Arabic Dialect Copora with Morphological Annotations"
-- **Format**: Binary PDF file
-- **Size**: Research paper discussing Arabic dialect corpora and annotation tools
 
 ### Iraqi Arabic Datasets
 
@@ -73,10 +69,6 @@ This project contains tools and datasets for scraping, processing, and analyzing
   - Recommendations for future data collection
 - **Use Case**: Reference document for understanding the data collection process
 
-#### `todo.md`
-- **Purpose**: Task list and notes for the project
-- **Content**: Currently contains an error message related to image format processing
-- **Status**: Needs review and cleanup
 
 ### Data Sources Identified
 
