@@ -1,0 +1,59 @@
+[
+    {
+        "url": "https://arxiv.org/pdf/2212.06468",
+        "source_page": "https://arxiv.org/abs/2212.06468",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "notes": ["Downloaded PDF: downloads/2212.06468"]
+    },
+    {
+        "url": "https://huggingface.co/huggingface",
+        "source_page": "https://arxiv.org/abs/2212.06468",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "notes": []
+    },
+    {
+        "url": "https://paperswithcode.com/",
+        "source_page": "https://arxiv.org/abs/2212.06468",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "notes": []
+    },
+    {
+        "url": "https://scholar.google.com/scholar_lookup?arxiv_id=2212.06468",
+        "source_page": "https://arxiv.org/abs/2212.06468",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "notes": []
+    },
+    {
+        "url": "https://github.com/ebady/Iraqi-Arabic-Dialect-Dataset/blob/master/Data/Tweets_Raw_Data.txt",
+        "source_page": "https://github.com/ebady/Iraqi-Arabic-Dialect-Dataset",
+        "http_status": 200,
+        "content_type": "text/plain; charset=utf-8",
+        "notes": ["Downloaded text file: downloads/Tweets_Raw_Data.txt"]
+    },
+    {
+        "url": "https://github.com/ebady/Iraqi-Arabic-Dialect-Dataset/blob/master/Data/Annotated_Dataset_After_Preprocessing.txt",
+        "source_page": "https://github.com/ebady/Iraqi-Arabic-Dialect-Dataset",
+        "http_status": 200,
+        "content_type": "text/plain; charset=utf-8",
+        "notes": ["Downloaded text file: downloads/Annotated_Dataset_After_Preprocessing.txt"]
+    },
+    {
+        "url": "https://drive.google.com/file/d/1iQ-ueye2pLFavy-2HWDEOhscD_wn_7ie/view",
+        "source_page": "https://github.com/hayderkharrufa/iraqi-dialect-tts-corpus",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "notes": ["File too large to download (2.1GB)", "Google Drive virus scan warning"]
+    },
+    {
+        "url": "https://www.kaggle.com/datasets/husseinnassrullah/arabic-iraqi-dialect-text-classification-dataset/data",
+        "source_page": "https://www.kaggle.com/datasets/husseinnassrullah/arabic-iraqi-dialect-text-classification-dataset/data",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "notes": ["Requires login/registration for download"]
+    }
+]
+
